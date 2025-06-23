@@ -11,7 +11,7 @@ I'm an aspiring SOC Analyst with a background in Full Stack Web Development thro
 
 ## Projects
 - Repositories with lab write-ups and scripts for automation and security analysis  
-- Personal blog coming soon: [paulomelodev.io](https://paulomelodev.io)  
+- Personal blog coming soon: [https://pjsmsec.github.io/](https://pjsmsec.github.io/)
 
 ## Socials  
 - [LinkedIn](https://www.linkedin.com/in/paulomelosec/)  
