@@ -19,5 +19,5 @@ I'm an aspiring SOC Analyst with a background in Full Stack Web Development thro
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloMeloSec&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMeloSec&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjsmsec&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pjsmsec&layout=compact&theme=dark)
